@@ -1,0 +1,1 @@
+/home/eber/2.Learning/near_contracts/NCD-Entrenamiento-colaborativo-de-modelos-IA/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /home/eber/2.Learning/near_contracts/NCD-Entrenamiento-colaborativo-de-modelos-IA/contract/src/lib.rs

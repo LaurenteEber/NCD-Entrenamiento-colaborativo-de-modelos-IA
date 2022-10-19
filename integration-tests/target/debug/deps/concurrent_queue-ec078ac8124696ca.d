@@ -1,0 +1,10 @@
+/home/eber/2.Learning/near_contracts/NCD-Entrenamiento-colaborativo-de-modelos-IA/integration-tests/target/debug/deps/concurrent_queue-ec078ac8124696ca.rmeta: /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/lib.rs /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/bounded.rs /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/single.rs /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/unbounded.rs
+
+/home/eber/2.Learning/near_contracts/NCD-Entrenamiento-colaborativo-de-modelos-IA/integration-tests/target/debug/deps/libconcurrent_queue-ec078ac8124696ca.rlib: /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/lib.rs /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/bounded.rs /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/single.rs /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/unbounded.rs
+
+/home/eber/2.Learning/near_contracts/NCD-Entrenamiento-colaborativo-de-modelos-IA/integration-tests/target/debug/deps/concurrent_queue-ec078ac8124696ca.d: /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/lib.rs /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/bounded.rs /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/single.rs /home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/unbounded.rs
+
+/home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/lib.rs:
+/home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/bounded.rs:
+/home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/single.rs:
+/home/eber/.cargo/registry/src/github.com-1ecc6299db9ec823/concurrent-queue-1.2.4/src/unbounded.rs:
